@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\evallarta\\source\\repos\\Comunidad_Decidida\\Comunidad_Decidida\\wwwroot\\uploads\\18315_0_fin.png",
+      "PackagePath": "staticwebassets\\uploads\\18315_0_fin.png"
+    },
+    {
+      "Id": "C:\\Users\\evallarta\\source\\repos\\Comunidad_Decidida\\Comunidad_Decidida\\wwwroot\\uploads\\COMPROBANTE_PAGO.jpg",
+      "PackagePath": "staticwebassets\\uploads\\COMPROBANTE_PAGO.jpg"
+    },
+    {
+      "Id": "C:\\Users\\evallarta\\source\\repos\\Comunidad_Decidida\\Comunidad_Decidida\\wwwroot\\uploads\\WhatsApp Image 2024-06-13 at 6.26.40 PM.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\WhatsApp Image 2024-06-13 at 6.26.40 PM.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\evallarta\\source\\repos\\Comunidad_Decidida\\Comunidad_Decidida\\wwwroot\\uploads\\WhatsApp Image 2024-07-01 at 1.07.46 PM.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\WhatsApp Image 2024-07-01 at 1.07.46 PM.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\evallarta\\source\\repos\\Comunidad_Decidida\\Comunidad_Decidida\\wwwroot\\uploads\\comunidad_decidida.png",
+      "PackagePath": "staticwebassets\\uploads\\comunidad_decidida.png"
+    },
+    {
+      "Id": "C:\\Users\\evallarta\\source\\repos\\Comunidad_Decidida\\Comunidad_Decidida\\wwwroot\\uploads\\politica_cancelacion_1_0882-B.pdf",
+      "PackagePath": "staticwebassets\\uploads\\politica_cancelacion_1_0882-B.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Comunidad_Decidida.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Comunidad_Decidida.props",
+      "PackagePath": "build\\Comunidad_Decidida.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Comunidad_Decidida.props",
+      "PackagePath": "buildMultiTargeting\\Comunidad_Decidida.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Comunidad_Decidida.props",
+      "PackagePath": "buildTransitive\\Comunidad_Decidida.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
